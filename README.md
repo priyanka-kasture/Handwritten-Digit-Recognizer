@@ -3,7 +3,7 @@
 </br>
 Handwritten Digit Recognition using Softmax Regression </br>
 </br>
-Author: Priyanka Kastuere | pkasture2010@gmail.com </br>
+Author: Priyanka Kasture | pkasture2010@gmail.com </br>
 Domain: Computer Vision </br>
 Language: Python 3.6 </br>
 Dataset: MNIST Database (http://yann.lecun.com/exdb/mnist/) </br>
