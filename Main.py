@@ -3,7 +3,6 @@
 Project: Handwritten Digit Recognizer Using Softmax Regression
 
 Author: Priyanka Kasture | pkasture2010@gmail.com
-Project inspired by: Akshay Bahadur
 
 -> Live Webcam Support Only
 -> Algorithms: 
